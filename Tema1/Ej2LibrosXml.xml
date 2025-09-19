@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libros>
+    <libro>
+        <titulo>El Quijote</titulo>
+        <autor>Miguel de Cervantes</autor>
+        <ano>1605</ano>
+    </libro>
+    <libro>
+        <titulo>Cien años de soledad</titulo>
+        <autor>Gabriel García Márquez</autor>
+        <ano>1967</ano>
+    </libro>
+    <libro>
+        <titulo>Don Juan Tenorio</titulo>
+        <autor>Tirso de Molina</autor>
+        <ano>1614</ano>
+    </libro>
+</libros>
