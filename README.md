@@ -7,6 +7,6 @@ Bienvenido/a al repositorio de prueba. Este README demuestra el uso básico de *
 
 | **Ejercicio** | **Descripción** |
 |---------:|:-----:|
-| [Ejercicio 1] | 1 |
+| [Ejercicio 1](https://github.com/MarioDPF/LLMM/blob/main/Tema1/Ej1pagina.html) | 1 |
 | [Ejercicio 2] | 2 |
 | [Ejercicio 3] | 3 |
