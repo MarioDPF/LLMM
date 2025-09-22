@@ -7,6 +7,6 @@ Bienvenido/a al repositorio de prueba. Este README demuestra el uso básico de *
 
 | **Ejercicio** | **Descripción** |
 |---------:|:-----:|
-| Ejercicio 1 | Avanzado |
-| Ejercicio 2 | Intermedio |
-| Ejercicio 3 | Básico |
+| [Ejercicio 1] | 1 |
+| [Ejercicio 2] | 2 |
+| [Ejercicio 3] | 3 |
