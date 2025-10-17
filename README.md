@@ -13,11 +13,11 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Lenguaje de M
 | **Ejercicio** | **Descripción** |
 |---------:|:-----:|
 | [Ejercicio 1](https://github.com/MarioDPF/LLMM/blob/main/Tema1/Ejercicio5.html) | Etiquetas strong y cite |
-| [Ejercicio 2](https://github.com/MarioDPF/LLMM/blob/main/Tema1/ejercicio6.html) | Ejercicio 1 de "LMSGI_02_Actividades" |
-| [Ejercicio 3](https://github.com/MarioDPF/LLMM/blob/main/Tema1/ejercicio7.html) | Ejercicio 2 de "LMSGI_02_Actividades" |
-| [Ejercicio 4](https://github.com/MarioDPF/LLMM/blob/main/Tema1/ejercicio8.html) | Ejercicio 3 de "LMSGI_02_Actividades" |
-| [Ejercicio 5](https://github.com/MarioDPF/LLMM/blob/main/Tema1/ejercicio9.html) | Ejercicio 4 de "LMSGI_02_Actividades" |
-| [Ejercicio 6](https://github.com/MarioDPF/LLMM/blob/main/Tema1/ejercicio10.html) | Ejercicio 5 de "LMSGI_02_Actividades" |
-| [Ejercicio 7](https://github.com/MarioDPF/LLMM/blob/main/Tema1/ejercicio11.html) | Ejercicio 6 de "LMSGI_02_Actividades" |
+| [Ejercicio 2](https://github.com/MarioDPF/LLMM/blob/main/Tema1/ejercicio6.html) | Niveles de cabecera seguidas de un pequeño párrafo de texto |
+| [Ejercicio 3](https://github.com/MarioDPF/LLMM/blob/main/Tema1/ejercicio7.html) | Texto con formato |
+| [Ejercicio 4](https://github.com/MarioDPF/LLMM/blob/main/Tema1/ejercicio8.html) | Página con entidades |
+| [Ejercicio 5](https://github.com/MarioDPF/LLMM/blob/main/Tema1/ejercicio9.html) | Párrafos con distinto formato |
+| [Ejercicio 6](https://github.com/MarioDPF/LLMM/blob/main/Tema1/ejercicio10.html) | Ejercicio 5 con distintos formatos de texto |
+| [Ejercicio 7](https://github.com/MarioDPF/LLMM/blob/main/Tema1/ejercicio11.html) | Cambio de fondo y color de página |
 
 ![GigaChad](51zkD7G8AEL.png)
