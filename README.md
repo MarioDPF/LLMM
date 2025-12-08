@@ -4,7 +4,7 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Lenguaje de M
 ## 📂 Ejercicios del 1º Trimestre
 ---
 ### 🌐 Quarterly Work 1ºT
-[Quarterly Work (Web4U)](https://github.com/MarioDPF/Web4U--MDPF) |
+[Quarterly Work (Web4U)](https://github.com/MarioDPF/Web4U--MDPF)
 
 ## Tema 0
 | **Ejercicio** | **Descripción** |
