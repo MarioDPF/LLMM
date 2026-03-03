@@ -45,7 +45,7 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Lenguaje de M
 ## 📂 2º Trimestre
 ---
 ### 🌐 Quarterly Work 2ºT
-[Quarterly Work (Bootstrap)](https://mariodpf.github.io/BoostrapMarioDPF/index.html)
+[Quarterly Work (Bootstrap)](https://github.com/MarioDPF/BoostrapMarioDPF)
 
 
 ![GigaChad](51zkD7G8AEL.png)
