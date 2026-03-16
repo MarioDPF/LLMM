@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculum Vitae</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+
+<body>
+    <div class="cv">
+        <header class="cv-header">
+            <h1>CURRICULUM VITAE</h1>
+        </header>
+        <section class="personal-data">
+            <h2>PERSONAL DATA</h2>
+            <p>Name: Azamat<br>
+            Surname: Azamat<br>
+            Date of birth: 30.07.74<br>
+            Place of birth: Bishkek, Kyrgyzstan</p>
+        </section>
+        <section class="education">
+            <h2>EDUCATION</h2>
+            <ul>
+                <li><b>2005-2009</b> Computer Engineering in the Technical University of Kyrgyzstan in
+                    Bishkek</li>
+                <li><b>2001-2005</b> High School “Manas” in Osh</li>
+                <li><b>1995-2001</b> Primary school</li>
+            </ul>
+        </section>
+        <section class="experience">
+            <h2>PROFESSIONAL EXPERIENCE</h2>
+            <ul>
+                <li><b>2007-2009</b> Computer teacher in High School in Bishkek</li>
+                <li><b>2005-2007</b> Secretary of Department of Software in Technical University of
+                    Kyrgyzstan in Bishkek</li>
+            </ul>
+        </section>
+    </div>
+</body>
+
+</html>
