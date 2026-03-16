@@ -1,0 +1,5 @@
+El ejercicio "Seis leyes de Murphy" hace uso de position: absolute; para situar cada cita en ubicaciones específicas dentro de un contenedor con position: relative;. Esto garantiza una colocación precisa en relación con el contenedor principal.
+
+Además, se aplica la propiedad z-index para gestionar la superposición de los elementos, definiendo qué cita queda por encima cuando se solapan.
+
+La combinación de estas técnicas permite un diseño estructurado y adaptable en la distribución de las citas dentro de la página.
