@@ -57,21 +57,21 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Lenguaje de M
 [Ejercicio 8](https://github.com/MarioDPF/LLMM/tree/main/2%C2%BA%20Trimestre/JavaScript/Ejercicio8) | Calculadora |
 [Ejercicio 9](https://github.com/MarioDPF/LLMM/tree/main/2%C2%BA%20Trimestre/JavaScript/Ejercicio9) | Celsius a Farenheit |
 
-[Ejercicio 11](/Tema1/act9) |  |
-[Ejercicio 12](/Tema1/Ejercicio10.html) | Listas anidadas con encabezados y texto en negrita | Listas anidadas |
-[Ejercicio 13](/Tema1/Ejercicio11.html) | Implementación de listas ordenadas y desordenadas | Tipos de listas |
-[Ejercicio 14](/Tema1/Ejercicio12.html) | Uso de clases CSS para aplicar colores diferentes | Clases CSS |
-[Ejercicio 15](/Tema1/Ejercicio13.html) | Párrafos con cabeceras y bordes de colores | Bordes CSS |
-[Ejercicio 16](/Tema1/Ejercicio14.html) | Párrafos con cabeceras, bordes de colores y padding | Modelo de caja CSS |
-[Ejercicio 18](/Tema1/Ejercicio15.html) | Creación de una tabla sencilla | Tablas HTML básicas |
-[Ejercicio 19](/Tema1/Ejercicio16.html) | Tabla con horario de clases | Tablas complejas |
-[Ejercicio 20](/Tema1/act17) | Resultados de búsqueda en tabla con enlaces | Tablas con enlaces |
-[Ejercicio 21](/Tema1/act18) | Implementación de tabla compleja | Tablas avanzadas |
-[Ejercicio 22](/Tema1/act19) | Posicionamiento con float right | Posicionamiento CSS |
-[Ejercicio 23](/Tema1/act20) | Imágenes correlativas con display flex | Flexbox CSS |
-[Ejercicio 24](/Tema1/act21) | Imagen con enlace | Imágenes clickeables |
-[Ejercicio 25](/Tema1/act22) | Página con favicon | Personalización de sitio |
-[Ejercicio 26](/Tema1/act23) | Implementación de iframe | Contenido embebido |
+### JavaScript
+| **Ejercicio** | **Descripción** |
+|---------:|:-----:|
+[Ejercicio 1](https://github.com/MarioDPF/LLMM/tree/main/2%C2%BA%20Trimestre/CSS/Ejercicio1) | Curriculum Vitae |
+[Ejercicio 2](https://github.com/MarioDPF/LLMM/tree/main/2%C2%BA%20Trimestre/CSS/Ejercicio2) | Diseño CSS |
+[Ejercicio 3](https://github.com/MarioDPF/LLMM/blob/main/2%C2%BA%20Trimestre/CSS/ejercicio3.html) | Fondo |
+[Ejercicio 4](https://github.com/MarioDPF/LLMM/blob/main/2%C2%BA%20Trimestre/CSS/ejercicio4.html) | Menu vertical vs Horizontal |
+[Ejercicio 5](https://github.com/MarioDPF/LLMM/blob/main/2%C2%BA%20Trimestre/CSS/ejercicio5.html) | Tablas de estilo |
+[Ejercicio 6](https://github.com/MarioDPF/LLMM/blob/main/2%C2%BA%20Trimestre/CSS/ejercicio6.html) | Tablas de estilo |
+[Ejercicio 7](https://github.com/MarioDPF/LLMM/blob/main/2%C2%BA%20Trimestre/CSS/ejercicio7.txt) | Propiedad FLOAT |
+[Ejercicio 8](https://github.com/MarioDPF/LLMM/blob/main/2%C2%BA%20Trimestre/CSS/ejercicio8.txt) | Posicion absoluta |
+[Ejercicio 9](https://github.com/MarioDPF/LLMM/blob/main/2%C2%BA%20Trimestre/CSS/ejercicio9.txt) | Posicion absoluta   |
+[Ejercicio 10](https://github.com/MarioDPF/LLMM/blob/main/2%C2%BA%20Trimestre/CSS/ejercicio10.html) | FlexBot |
+[Ejercicio 12](https://github.com/MarioDPF/LLMM/blob/main/2%C2%BA%20Trimestre/CSS/ejercicio12.html) | Responsive WEB design |
+
 ### 🌐 Quarterly Work 2ºT
 [Quarterly Work (Bootstrap)](https://github.com/MarioDPF/BoostrapMarioDPF)
 
