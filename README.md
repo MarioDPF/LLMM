@@ -44,19 +44,20 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Lenguaje de M
 
 ## 📂 2º Trimestre
 ---
+## JavaScript
 | **Ejercicio** | **Descripción** |
 |---------:|:-----:|
-[Ejercicio 1]() | Etiquetas strong y cite |
-[Ejercicio 2](https://github.com/MarioDPF/LLMM/blob/main/Tema1/ejercicio6.html) | Niveles de cabecera seguidas de un pequeño párrafo de texto |
-[Ejercicio 3](https://github.com/MarioDPF/LLMM/blob/main/Tema1/ejercicio7.html) | Texto con formato |
-[Ejercicio 4](https://github.com/MarioDPF/LLMM/blob/main/Tema1/ejercicio8.html) | Página con entidades |
-[Ejercicio 5](https://github.com/MarioDPF/LLMM/blob/main/Tema1/ejercicio9.html) | Párrafos con distinto formato |
-[Ejercicio 6](https://github.com/MarioDPF/LLMM/blob/main/Tema1/ejercicio10.html) | Ejercicio 5 con distintos formatos de texto |
-[Ejercicio 7](https://github.com/MarioDPF/LLMM/blob/main/Tema1/ejercicio11.html) | Cambio de fondo y color de página |
-[Ejercicio 8](/Tema1/Ejercicio6.html) | Documento HTML con diversos formatos de texto | Formato de texto |
-[Ejercicio 9](/Tema1/Ejercicio7.html) | Modificación de fondo y color mediante atributos | Estilo inline |
-[Ejercicio 10](/Tema1/act8) | Práctica con selectores CSS (Ejercicio 6 de "uniwebsidad", capítulo 4) | Selectores CSS |
-[Ejercicio 11](/Tema1/act9) | Sitio web con barra de navegación y menú en todas las páginas | Navegación entre páginas |
+[Ejercicio 1](https://github.com/MarioDPF/LLMM/tree/main/2%C2%BA%20Trimestre/JavaScript/Ejercicio1) | Modificar parrafo |
+[Ejercicio 2](https://github.com/MarioDPF/LLMM/tree/main/2%C2%BA%20Trimestre/JavaScript/Ejercicio2) | Mostrar mensaje |
+[Ejercicio 3](https://github.com/MarioDPF/LLMM/tree/main/2%C2%BA%20Trimestre/JavaScript/Ejercicio3) | Coches |
+[Ejercicio 4](https://github.com/MarioDPF/LLMM/tree/main/2%C2%BA%20Trimestre/JavaScript/Ejercicio4) | Variables |
+[Ejercicio 5](https://github.com/MarioDPF/LLMM/tree/main/2%C2%BA%20Trimestre/JavaScript/Ejercicio5) | Basicas |
+[Ejercicio 6](https://github.com/MarioDPF/LLMM/tree/main/2%C2%BA%20Trimestre/JavaScript/Ejercicio6) | Frases aleatorias |
+[Ejercicio 7](https://github.com/MarioDPF/LLMM/tree/main/2%C2%BA%20Trimestre/JavaScript/Ejercicio7) | Deslizar imagenes |
+[Ejercicio 8](https://github.com/MarioDPF/LLMM/tree/main/2%C2%BA%20Trimestre/JavaScript/Ejercicio8) | Calculadora |
+[Ejercicio 9](https://github.com/MarioDPF/LLMM/tree/main/2%C2%BA%20Trimestre/JavaScript/Ejercicio9) | Celsius a Farenheit |
+
+[Ejercicio 11](/Tema1/act9) |  |
 [Ejercicio 12](/Tema1/Ejercicio10.html) | Listas anidadas con encabezados y texto en negrita | Listas anidadas |
 [Ejercicio 13](/Tema1/Ejercicio11.html) | Implementación de listas ordenadas y desordenadas | Tipos de listas |
 [Ejercicio 14](/Tema1/Ejercicio12.html) | Uso de clases CSS para aplicar colores diferentes | Clases CSS |
