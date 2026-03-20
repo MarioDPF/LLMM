@@ -44,7 +44,7 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Lenguaje de M
 
 ## 📂 2º Trimestre
 ---
-## JavaScript
+### JavaScript
 | **Ejercicio** | **Descripción** |
 |---------:|:-----:|
 [Ejercicio 1](https://github.com/MarioDPF/LLMM/tree/main/2%C2%BA%20Trimestre/JavaScript/Ejercicio1) | Modificar parrafo |
