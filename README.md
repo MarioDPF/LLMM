@@ -46,7 +46,7 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Lenguaje de M
 ---
 | **Ejercicio** | **Descripción** |
 |---------:|:-----:|
-[Ejercicio 1](https://github.com/MarioDPF/LLMM/blob/main/Tema1/Ejercicio5.html) | Etiquetas strong y cite |
+[Ejercicio 1]() | Etiquetas strong y cite |
 [Ejercicio 2](https://github.com/MarioDPF/LLMM/blob/main/Tema1/ejercicio6.html) | Niveles de cabecera seguidas de un pequeño párrafo de texto |
 [Ejercicio 3](https://github.com/MarioDPF/LLMM/blob/main/Tema1/ejercicio7.html) | Texto con formato |
 [Ejercicio 4](https://github.com/MarioDPF/LLMM/blob/main/Tema1/ejercicio8.html) | Página con entidades |
