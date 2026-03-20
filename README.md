@@ -57,7 +57,7 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Lenguaje de M
 [Ejercicio 8](https://github.com/MarioDPF/LLMM/tree/main/2%C2%BA%20Trimestre/JavaScript/Ejercicio8) | Calculadora |
 [Ejercicio 9](https://github.com/MarioDPF/LLMM/tree/main/2%C2%BA%20Trimestre/JavaScript/Ejercicio9) | Celsius a Farenheit |
 
-### JavaScript
+### CSS
 | **Ejercicio** | **Descripción** |
 |---------:|:-----:|
 [Ejercicio 1](https://github.com/MarioDPF/LLMM/tree/main/2%C2%BA%20Trimestre/CSS/Ejercicio1) | Curriculum Vitae |
