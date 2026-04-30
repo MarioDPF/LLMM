@@ -81,7 +81,7 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Lenguaje de M
 
 ### Ejercicios de AJAX, XML, RSS, XMLDOM
 
-[Listado de ejercicio](https://github.com/MarioDPF/LLMM/tree/main/3%C2%BATRIMESTRE/XML-Exercises)
+[Listado de ejercicios](https://github.com/MarioDPF/LLMM/tree/main/3%C2%BATRIMESTRE/XML-Exercises)
 
 ### 🌐 Quarterly Work 3ºT
 
