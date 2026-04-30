@@ -3,8 +3,6 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Lenguaje de M
 
 ## 📂 1º Trimestre
 ---
-### 🌐 Quarterly Work 1ºT
-[Quarterly Work (Web4U)](https://github.com/MarioDPF/Web4U--MDPF)
 
 ## Tema 0
 | **Ejercicio** | **Descripción** |
@@ -42,6 +40,9 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Lenguaje de M
 [Ejercicio 25](/Tema1/act22) | Página con favicon | Personalización de sitio |
 [Ejercicio 26](/Tema1/act23) | Implementación de iframe | Contenido embebido |
 
+### 🌐 Quarterly Work 1ºT
+[Quarterly Work (Web4U)](https://github.com/MarioDPF/Web4U--MDPF)
+
 ## 📂 2º Trimestre
 ---
 ### JavaScript
@@ -75,5 +76,15 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Lenguaje de M
 ### 🌐 Quarterly Work 2ºT
 [Quarterly Work (Bootstrap)](https://github.com/MarioDPF/BoostrapMarioDPF)
 
+## 📂 3º Trimestre
+---
+
+### Ejercicios de AJAX, XML, RSS, XMLDOM
+
+[Listado de ejercicio](https://github.com/MarioDPF/LLMM/tree/main/3%C2%BATRIMESTRE/XML-Exercises)
+
+### 🌐 Quarterly Work 3ºT
+
+🔗 [Cuestionario XML](https://github.com/MarioDPF/ProyectoCuestionarioXML)
 
 ![GigaChad](51zkD7G8AEL.png)
